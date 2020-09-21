@@ -1,0 +1,6 @@
+start: 0
+end: 800
+interval: 0.1
+nIters: 100000
+r_d11B: 100
+r_d18O: 100
